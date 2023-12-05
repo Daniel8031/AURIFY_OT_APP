@@ -1,0 +1,25 @@
+
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <name>ti_pruena_1</name>
+      <ThemeName>Default</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>27_LuckyDuck_SBingoHR</name>
+          <GameDefID>Crimson 7s</GameDefID>
+          <PercentPayout>9600</PercentPayout>
+          <GameSkinDLL>2</GameSkinDLL>
+          <Denominations>J1M6W0X9-1</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>2001_3R CP Bingo</name>
+          <GameDefID>Four Leaf Cash</GameDefID>
+          <PercentPayout>9500</PercentPayout>
+          <GameSkinDLL>3</GameSkinDLL>
+          <Denominations>J1M6W0X9-1</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

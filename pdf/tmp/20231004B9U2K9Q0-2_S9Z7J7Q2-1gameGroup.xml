@@ -1,0 +1,47 @@
+
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <name>hjghj</name>
+      <ThemeName>Default</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>2003_CommunityPrize3_SBingo</name>
+          <GameDefID>Crimson 7s</GameDefID>
+          <PercentPayout>9500</PercentPayout>
+          <GameSkinDLL>3</GameSkinDLL>
+          <Denominations>S9Z7J7Q2-1</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+  <GameGroups>
+    <GameGroup>
+      <name>rtytryr</name>
+      <ThemeName>Default</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>2001_3R CP Bingo</name>
+          <GameDefID>Going Wild</GameDefID>
+          <PercentPayout>9625</PercentPayout>
+          <GameSkinDLL>20</GameSkinDLL>
+          <Denominations>B9U2K9Q0-2</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>2003_CommunityPrize3_SBingo</name>
+          <GameDefID>Four Leaf Cash</GameDefID>
+          <PercentPayout>9500</PercentPayout>
+          <GameSkinDLL>5</GameSkinDLL>
+          <Denominations>B9U2K9Q0-2</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>2001_3R CP Bingo</name>
+          <GameDefID>Crimson 7s</GameDefID>
+          <PercentPayout>9500</PercentPayout>
+          <GameSkinDLL>3</GameSkinDLL>
+          <Denominations>B9U2K9Q0-2</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

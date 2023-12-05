@@ -1,0 +1,75 @@
+
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <name>LL1B_9425_10</name>
+      <ThemeName>MultiGame2_GameMaster</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>9400_27_LuckyDuck_SBingoHR</name>
+          <GameDefID>27</GameDefID>
+          <PercentPayout>9400</PercentPayout>
+          <GameSkinDLL>Four Leaf Cash</GameSkinDLL>
+          <Denominations>3</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>9300_3433_WndrsFEast_SBingoLow</name>
+          <GameDefID>3433</GameDefID>
+          <PercentPayout>9300</PercentPayout>
+          <GameSkinDLL>Inferno 7s</GameSkinDLL>
+          <Denominations>20</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>9490_3402_WondrsFEastV2_SBingo</name>
+          <GameDefID>3402</GameDefID>
+          <PercentPayout>9490</PercentPayout>
+          <GameSkinDLL>Inferno 7s</GameSkinDLL>
+          <Denominations>50</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>9625_3127_Vesta1_SBingoHR</name>
+          <GameDefID>3127</GameDefID>
+          <PercentPayout>9625</PercentPayout>
+          <GameSkinDLL>Inferno 7s</GameSkinDLL>
+          <Denominations>10</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+  <GameGroups>
+    <GameGroup>
+      <name>LL1B_9425_102</name>
+      <ThemeName>MultiGame2_FlamingJackpots</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>9425_2003_CommunityPrize3_SBingo</name>
+          <GameDefID>2003</GameDefID>
+          <PercentPayout>9425</PercentPayout>
+          <GameSkinDLL>Inferno 7s</GameSkinDLL>
+          <Denominations>10</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>9625_3127_Vesta1_SBingoHR</name>
+          <GameDefID>3127</GameDefID>
+          <PercentPayout>9625</PercentPayout>
+          <GameSkinDLL>Going Wild</GameSkinDLL>
+          <Denominations>5</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>9400_27_LuckyDuck_SBingoHR</name>
+          <GameDefID>27</GameDefID>
+          <PercentPayout>9400</PercentPayout>
+          <GameSkinDLL>Going Wild</GameSkinDLL>
+          <Denominations>2</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>9625_3396_LuckyLink_SBingo</name>
+          <GameDefID>3396</GameDefID>
+          <PercentPayout>9625</PercentPayout>
+          <GameSkinDLL>Going Wild</GameSkinDLL>
+          <Denominations>5</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

@@ -1,0 +1,90 @@
+
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <name>ti_pruena_1</name>
+      <ThemeName>Default</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>27_LuckyDuck_SBingoHR</name>
+          <GameDefID>Crimson 7s</GameDefID>
+          <PercentPayout>9600</PercentPayout>
+          <GameSkinDLL>2</GameSkinDLL>
+          <Denominations>J1M6W0X9-1</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>2001_3R CP Bingo</name>
+          <GameDefID>Four Leaf Cash</GameDefID>
+          <PercentPayout>9500</PercentPayout>
+          <GameSkinDLL>3</GameSkinDLL>
+          <Denominations>J1M6W0X9-1</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+  <GameGroups>
+    <GameGroup>
+      <name>TI_PRUEBA_2</name>
+      <ThemeName>MultiGame2_SkillPack3</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>3433_WndrsFEast_SBingoLow</name>
+          <GameDefID>Lucky Fishy</GameDefID>
+          <PercentPayout>9400</PercentPayout>
+          <GameSkinDLL>5</GameSkinDLL>
+          <Denominations>P5B1P5O6-2</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>3402_WondrsFEastV2_SBingo</name>
+          <GameDefID>Lucky Beaver</GameDefID>
+          <PercentPayout>9490</PercentPayout>
+          <GameSkinDLL>5</GameSkinDLL>
+          <Denominations>P5B1P5O6-2</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>3415_WolfUltra_SBingo</name>
+          <GameDefID>Lucky Beaver</GameDefID>
+          <PercentPayout>9625</PercentPayout>
+          <GameSkinDLL>5</GameSkinDLL>
+          <Denominations>P5B1P5O6-2</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+  <GameGroups>
+    <GameGroup>
+      <name>TI_PRUEBA_3</name>
+      <ThemeName>MultiGame2_XTREME</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>2001_3R CP Bingo</name>
+          <GameDefID>Going Wild</GameDefID>
+          <PercentPayout>9425</PercentPayout>
+          <GameSkinDLL>20</GameSkinDLL>
+          <Denominations>N2F1L4N0-3</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>3415_WolfUltra_SBingo</name>
+          <GameDefID>Lucky Fishy</GameDefID>
+          <PercentPayout>9425</PercentPayout>
+          <GameSkinDLL>25</GameSkinDLL>
+          <Denominations>N2F1L4N0-3</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>3490_FlmingRichsMX_SBingo</name>
+          <GameDefID>Lucky Ribbit</GameDefID>
+          <PercentPayout>9425</PercentPayout>
+          <GameSkinDLL>50</GameSkinDLL>
+          <Denominations>N2F1L4N0-3</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>3396_LuckyLink_SBingo</name>
+          <GameDefID>Tiki Treasure</GameDefID>
+          <PercentPayout>9425</PercentPayout>
+          <GameSkinDLL>20</GameSkinDLL>
+          <Denominations>N2F1L4N0-3</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

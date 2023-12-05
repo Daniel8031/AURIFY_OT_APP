@@ -1,0 +1,39 @@
+
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <name>TI_PRUEBAS_1_2023</name>
+      <ThemeName>Default</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>27_LuckyDuck_SBingoHR</name>
+          <GameDefID>Going Wild</GameDefID>
+          <PercentPayout>9500</PercentPayout>
+          <GameSkinDLL>1</GameSkinDLL>
+          <Denominations>D7A0T6I6-1</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>27_LuckyDuck_SBingoHR</name>
+          <GameDefID>Going Wild</GameDefID>
+          <PercentPayout>9500</PercentPayout>
+          <GameSkinDLL>2</GameSkinDLL>
+          <Denominations>D7A0T6I6-1</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>3396_LuckyLink_SBingo</name>
+          <GameDefID>Lucky Duck Loot</GameDefID>
+          <PercentPayout>9625</PercentPayout>
+          <GameSkinDLL>3</GameSkinDLL>
+          <Denominations>D7A0T6I6-1</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>3127_Vesta1_SBingoHR</name>
+          <GameDefID>Lucky Beaver</GameDefID>
+          <PercentPayout>9425</PercentPayout>
+          <GameSkinDLL>20</GameSkinDLL>
+          <Denominations>D7A0T6I6-1</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

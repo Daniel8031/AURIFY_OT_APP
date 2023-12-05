@@ -1,0 +1,73 @@
+
+.content-select select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.content-input input {
+    visibility: hidden;
+    position: absolute;
+    right: 0;
+}
+
+.content-input {
+    position: relative;
+    margin-bottom: 25px;
+    padding: 1px 0 1px 1px;
+    cursor: pointer;
+}
+
+.content-input input + i {
+    background: #FA5C5C;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 52px;
+    height: 30px;
+    border-radius: 15px;
+    transition: background 0.5s ease; /* Agregamos la transición */
+}
+.content-input input[type=checkbox] + i:hover {
+    background: #0266F7; /* Cambia el color al pasar el cursor */
+}
+
+.content-input input[type=checkbox] + i:before {
+    content: '';
+    width: 26px;
+    height: 26px;
+    background: #fff;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+    -webkit-box-shadow: 3px 0 3px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 3px 0 3px 0 rgba(0, 0, 0, 0.2);
+}
+
+.content-input input[type=checkbox]:checked + i:before {
+    left: 22px;
+    -webkit-box-shadow: -3px 0 3px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 3px 0 -3px 0 rgba(0, 0, 0, 0.2);
+}
+
+.content-input input[type=checkbox]:checked + i {
+    background: #0e9be1;
+}
+
+.content-input input[type=checkbox] + i:after {
+    content: 'SI';
+    position: absolute;
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.6);
+    top: 8px;
+    left: 4px;
+    opacity: 0;
+    transition: all 0.25s ease 0.25s;
+}
+
+.content-input input[type=checkbox]:checked + i:after {
+    opacity: 1;
+}

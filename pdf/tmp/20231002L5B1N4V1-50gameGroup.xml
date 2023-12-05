@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <name>dfgdfgdfg</name>
+      <ThemeName>MultiGame2_Quad</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>3501_FuGold1MX_SBingo</name>
+          <GameDefID>Krazy Cash</GameDefID>
+          <PercentPayout>9425</PercentPayout>
+          <GameSkinDLL>20</GameSkinDLL>
+          <Denominations>L5B1N4V1-50</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

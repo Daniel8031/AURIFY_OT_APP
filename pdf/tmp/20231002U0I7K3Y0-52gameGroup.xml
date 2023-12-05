@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <name>gdfdfgd</name>
+      <ThemeName>MultiGame2_GameMaster</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>3396_LuckyLink_SBingo</name>
+          <GameDefID>Lucky Beaver</GameDefID>
+          <PercentPayout>9625</PercentPayout>
+          <GameSkinDLL>3</GameSkinDLL>
+          <Denominations>U0I7K3Y0-52</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

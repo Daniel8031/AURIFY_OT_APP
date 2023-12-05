@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>3127_Vesta1_SBingoHR</name>
+          <GameDefID>Going Wild</GameDefID>
+          <PercentPayout>9625</PercentPayout>
+          <GameSkinDLL>5</GameSkinDLL>
+          <Denominations>G4F1C7A4-46</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

@@ -1,0 +1,30 @@
+.nav-verificator{
+    background-color: #000;
+    color: #FFF;
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+}
+.img-verificator{
+    max-height: 120px; 
+    margin: 0 auto; 
+    display: block;
+}
+.img-product-verificator{
+    max-width: 300px; 
+    margin: 0 auto; 
+    display: block;
+}
+.icon-verificator{
+    font-size: 150px;
+}
+.list-desc-product li{
+    margin: 5px 0;
+    font-size: 20px;
+}
+.text-price{
+    font-size: 22px;
+}
+.text-price-badge{
+    font-size: 30px;
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>3396_LuckyLink_SBingo</name>
+          <GameDefID>Four Leaf Cash</GameDefID>
+          <PercentPayout>9600</PercentPayout>
+          <GameSkinDLL>2</GameSkinDLL>
+          <Denominations>S8R1M0V0-47</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>3127_Vesta1_SBingoHR</name>
+          <GameDefID>Going Wild</GameDefID>
+          <PercentPayout>9625</PercentPayout>
+          <GameSkinDLL>5</GameSkinDLL>
+          <Denominations>S8R1M0V0-47</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

@@ -1,0 +1,25 @@
+
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <name>si_tiene</name>
+      <ThemeName>MultiGameScreen</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>9625_3127_Vesta1_SBingoHR</name>
+          <GameDefID>3127</GameDefID>
+          <PercentPayout>9625</PercentPayout>
+          <GameSkinDLL>Lucky Fishy</GameSkinDLL>
+          <Denominations>10</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+  <GameGroups>
+    <GameGroup>
+      <name>ffdgdfgdf</name>
+      <ThemeName>MultiGameScreen</ThemeName>
+      <DenomGroupDefinitions/>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

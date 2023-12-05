@@ -1,0 +1,54 @@
+
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <name>TI_PRUEBAS_3_2023</name>
+      <ThemeName>MultiGame2_XTREME</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>3127_Vesta1_SBingoHR_3127_Vesta1_SBingoHR</name>
+          <GameDefID>Four Leaf Cash</GameDefID>
+          <PercentPayout>9175</PercentPayout>
+          <GameSkinDLL>100</GameSkinDLL>
+          <Denominations>W2H9T7X1-3</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+  <GameGroups>
+    <GameGroup>
+      <name>TI_PRUEBAS_4_2023</name>
+      <ThemeName>MultiGame2</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>27_LuckyDuck_SBingoHR_27_LuckyDuck_SBingoHR</name>
+          <GameDefID>Crimson 7s</GameDefID>
+          <PercentPayout>9600</PercentPayout>
+          <GameSkinDLL>50</GameSkinDLL>
+          <Denominations>F0R1N3V1-4</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>2003_CommunityPrize3_SBingo_2003_CommunityPrize3_SBingo</name>
+          <GameDefID>Going Wild</GameDefID>
+          <PercentPayout>9400</PercentPayout>
+          <GameSkinDLL>3</GameSkinDLL>
+          <Denominations>F0R1N3V1-4</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>3573_RedReelsLadyMX_Mid_SBingo_3573_RedReelsLadyMX_Mid_SBingo</name>
+          <GameDefID>African Quest</GameDefID>
+          <PercentPayout>0</PercentPayout>
+          <GameSkinDLL>100</GameSkinDLL>
+          <Denominations>F0R1N3V1-4</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>3406_HotterFaster_SBingo_3406_HotterFaster_SBingo</name>
+          <GameDefID>Lucky Duck Loot</GameDefID>
+          <PercentPayout>9625</PercentPayout>
+          <GameSkinDLL>25</GameSkinDLL>
+          <Denominations>F0R1N3V1-4</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

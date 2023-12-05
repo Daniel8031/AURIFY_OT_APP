@@ -1,0 +1,18 @@
+
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <name>hjghj</name>
+      <ThemeName>Default</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>2003_CommunityPrize3_SBingo</name>
+          <GameDefID>Crimson 7s</GameDefID>
+          <PercentPayout>9500</PercentPayout>
+          <GameSkinDLL>3</GameSkinDLL>
+          <Denominations>S9Z7J7Q2-1</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

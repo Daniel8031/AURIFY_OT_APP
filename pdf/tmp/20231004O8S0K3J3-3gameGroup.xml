@@ -1,0 +1,25 @@
+
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <name>TI_PRUEBAS_2</name>
+      <ThemeName>MultiGame2_GameMaster</ThemeName>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>3402_WondrsFEastV2_SBingo</name>
+          <GameDefID>Inferno 7s</GameDefID>
+          <PercentPayout>9425</PercentPayout>
+          <GameSkinDLL>10</GameSkinDLL>
+          <Denominations>O8S0K3J3-3</Denominations>
+        </DenomGroup>
+        <DenomGroup>
+          <name>3402_WondrsFEastV2_SBingo</name>
+          <GameDefID>Lucky Beaver</GameDefID>
+          <PercentPayout>9425</PercentPayout>
+          <GameSkinDLL>3</GameSkinDLL>
+          <Denominations>O8S0K3J3-3</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

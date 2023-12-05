@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<GameGroupDefinitions>
+  <GameGroups>
+    <GameGroup>
+      <DenomGroupDefinitions>
+        <DenomGroup>
+          <name>3415_WolfUltra_SBingo</name>
+          <GameDefID>Going Wild</GameDefID>
+          <PercentPayout>9350</PercentPayout>
+          <GameSkinDLL>25</GameSkinDLL>
+          <Denominations>Q6G7I8P3-48</Denominations>
+        </DenomGroup>
+      </DenomGroupDefinitions>
+    </GameGroup>
+  </GameGroups>
+</GameGroupDefinitions>

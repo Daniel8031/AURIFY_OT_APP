@@ -1,0 +1,3 @@
+<p class="text-justify">
+En el módulo "AGREGAR GRUPO DE JUEGOS", los usuarios pueden crear nuevos conjuntos de juegos y gestionarlos de manera eficiente en el sistema. Este módulo está diseñado para facilitar la administración de juegos y generar archivos XML con la información relevante. Ya sea que esté en el negocio de los videojuegos, el entretenimiento o cualquier otro sector relacionado con juegos, esta herramienta le permitirá mantener un registro completo y organizado de su biblioteca de juegos.
+</p>
